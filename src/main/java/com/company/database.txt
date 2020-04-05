@@ -1,0 +1,2 @@
+{firstName:Boris,secondName:Kezikov,age:21,phoneNumber:89527656217}
+{firstName:Maksim,secondName:Maksimov,age:10,phoneNumber:88005553535}
